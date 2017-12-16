@@ -1,0 +1,25 @@
+.content_page_services {
+  margin: 40px 0 20px 0; }
+
+.content_page_services .container-image {
+  width: 60px;
+  height: 60px;
+  background-color: #2ecc71;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 100%; }
+
+.content_page_services .container-image img {
+  width: 35px;
+  position: relative;
+  top: 12px; }
+
+.content_page_services h4 {
+  text-align: center;
+  margin: 20px 0 15px 0;
+  font-size: 16px;
+  font-weight: 900; }
+
+.content_page_services p {
+  text-align: center;
+  padding: 0 20px; }

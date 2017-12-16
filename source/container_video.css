@@ -1,0 +1,26 @@
+.containter_video input[type="email"] {
+  padding: 5px 15px;
+  font-size: 12px;
+  border-radius: 5px;
+  border: 1px solid #b3b3b3;
+  height: 40px; }
+
+.containter_video input[type="submit"] {
+  background-color: #2ecc71;
+  color: white;
+  font-weight: 700;
+  border: 0;
+  border-radius: 5px;
+  padding: 0 20px;
+  height: 40px;
+  position: relative;
+  right: 9px;
+  top: 1px; }
+
+.containter_video {
+  background-color: lightgray; }
+
+.containter_video .container {
+  padding: 30px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
